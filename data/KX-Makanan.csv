@@ -1,0 +1,59 @@
+id_produk,nama_produk,deskripsi_produk,jenis_produk,harga,tempat
+1,Ayam Goreng,"ayam, goreng",Lauk,19000,kantin jaya
+2,Ayam Bakar,"ayam, bakar",Lauk,19000,kantin jaya
+3,Ayam Gulai,"ayam, santan, kuah",Lauk,19000,kantin jaya
+4,Ati Ampla Gulai,"ayam, santan, ampla",Lauk,17000,kantin jaya
+5,Cumi Gulai,"seafood, cumi, santan",Lauk,30000,kantin jaya
+6,Cumi Sambal,"seafood, cumi, pedas, sambal",Lauk,30000,kantin jaya
+7,Udang Goreng,"seafood, udang, goreng",Lauk,30000,kantin jaya
+8,Rendang,"sapi, bumbu rendang",Lauk,20000,kantin jaya
+9,Dendeng Balado,"sapi, pedas",Lauk,28000,kantin jaya
+10,Gulai Ikan Kakap,"ikan, gulai, kakap",Lauk,20000,kantin jaya
+11,Ikan Nila Bakar,"ikan, nila, bakar",Lauk,25000,kantin jaya
+12,Ikan Nila Goreng,"ikan , nila, goreng",Lauk,23000,kantin jaya
+13,Nasi Goreng Cumi,"nasi, cumi",nasi,20000,kantin jaya
+14,Nasi Goreng Udang,"nasi, udang",nasi,20000,kantin jaya
+15,Nasi Goreng Ikan Teri,"nasi, ikan ",nasi,20000,kantin jaya
+16,Nasi Goreng Special,"nasi, bakso, sosis, telor",nasi,25000,kantin jaya
+17,Mie Goreng Telor,"mie, goreng, kecap, telor",mie,15000,kantin jaya
+18,Mie Goreng Cumi,"mie, goreng, kecap, cumi",mie,20000,kantin jaya
+19,Mie Goreng Udang,"mie, goreng, kecap,udang",mie,20000,kantin jaya
+20,Mie Goreng Special,"mie, goreng, kecap, sosis, telor, bakso",mie,25000,kantin jaya
+21,Gulai Nangka,"sayur, santan , nangka",Sayuran,7000,kantin jaya
+22,Cha Kangkung,"sayur, kangkung, tumis",Sayuran,7000,kantin jaya
+23,Tumis Pare,"sayur, pare, tumis",Sayuran,7000,kantin jaya
+24,Sayur Asam,"sayur, kuah",Sayuran,10000,kantin jaya
+25,Soup,"sayur, kuah",Sayuran,10000,kantin jaya
+26,es teh,"es, teh, dingin",minuman,3000,kantin jaya
+27,es jeruk,"es, jeruk",minuman,5000,kantin jaya
+28,es campur,"es, buah, sirup, susu",minuman,10000,kantin jaya
+29,jus melon,"susu, buah",minuman,8000,kantin jaya
+30,jus semangka,"susu, buah",minuman,8000,kantin jaya
+31,Ayam Kecap ,"ayam, kecap",lauk,15000,kantin cemara
+32,Ayam Goreng Lengkuas,"ayam, goreng",lauk,15000,kantin cemara
+33,Ayam Bakar,"ayam, bakar",lauk,15000,kantin cemara
+34,Nasi Goreng Telor,"nasi, goreng , telor",nasi,15000,kantin cemara
+35,Nasi Goreng Sosis,"nasi, goreng, sosis",nasi,15000,kantin cemara
+36,Kwetiau Udang,"kwetiau, mie, udang",mie,15000,kantin cemara
+37,Kwatiau Cumi,"kwetiau, mie, cumi",mie,15000,kantin cemara
+38,Es Teh,"es , teh , dingin",minuman,3000,kantin cemara
+39,Es Teler,"es, buah, susu, sirup",minuman,10000,kantin cemara
+40,Es Jeruk,"es, jeruk",minuman,5000,kantin cemara
+41,Chicken Burger,"ayam , roti, sayur",makanan cepat saji,20000,kantin jujur
+42,Beef Burger,"sapi , roti, sayur, ",makanan cepat saji,20000,kantin jujur
+43,Kentang Goreng,"kentang, goreng",makanan cepat saji,10000,kantin jujur
+44,Onion Rings,"bawang bombay, goreng",makanan cepat saji,10000,kantin jujur
+45,Carbonara Pasta,"pasta, creamy, susu, keju",makanan cepat saji,15000,kantin jujur
+46,Spaghetti Bolognase,"pasta, bolognase, sapi",makanan cepat saji,15000,kantin jujur
+47,Cola,"cola cola, es, dingin",minuman,8000,kantin jujur
+48,Lemon Tea,"lemon , teh, dingin",minuman,8000,kantin jujur
+49,Vanilla Ice Cream,"es , krim, vanilla",minuman,8000,kantin jujur
+50,Chocolate Ice Cream,"es , krim, coklat",minuman,8000,kantin jujur
+51,Spaghetti Bolognase,"pasta, bolognase, sapi",makanan cepat saji,17000,kantin Delima
+52,Spaghetti Aglio Olio,"pasta, udang, ayam",makanan cepat saji,17000,kantin Delima
+53,Spaghetti Carbonara,"pasta, creamy, susu, keju",makanan cepat saji,17000,kantin Delima
+54,Onion Rings,,,18000,
+55,Sosis Goreng,"sosis, goreng, sapi",,15000,kantin Delima
+56,Es Lemon Tea,"es, teh, lemon",,7000,
+48,Lemon Tea,"lemon , teh, dingin",minuman,8000,kantin Delima
+58,Lemon Tea,"lemon , teh, dingin",minuman,8000,kantin Delima
